@@ -53,7 +53,7 @@
    
    * Type in python create_tables.py
    
-   * This command will trigger the create statements in the sql_queries.py file.
+   * This command will trigger create_tables.py script which contains the Database creation code and defintions to drop / create / insert data based on the defintion in the           the sql_queries.py file.
    
    * Run test.ipynb to confirm the creation of your tables with the correct columns.
  
