@@ -1,9 +1,10 @@
 # Project: Data Modeling with Postgres
 
 ## Objective :
-      Build a star schema data model in Postgres for Sparkify to analyze the songs and User activity data collected on their music  streaming app. 
-      Build the ETL pipeline in Python to transfer the data files from local directories into the fact and dimension tables.
-      The main of Sparkify is to understand users choice of songs, in other words they want to understand what songs they are listening to.
+      * The main of Sparkify is to understand users choice of songs, in other words they want to understand what songs they are listening to. 
+      * Build a star schema data model in Postgres for Sparkify to analyze the songs and User activity data collected on their music  streaming app. 
+      * Build the ETL pipeline in Python to transfer the data files from local directories into the fact and dimension tables.
+      
       
 ### Dataset
     The data is available in 2 differernt JSON files.
